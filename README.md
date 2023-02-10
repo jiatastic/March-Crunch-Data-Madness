@@ -2,12 +2,12 @@
 
 Packages used(Current) 
 
-Pandas
-Numpy
-Matplotlib
-Math
-Sklearn
-Warning
+1.Pandas
+2.Numpy
+3.Matplotlib
+4.Math
+5.Sklearn
+6.Warning
 
 ## Introduction 
 
