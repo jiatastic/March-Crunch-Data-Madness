@@ -15,9 +15,17 @@ Through a collaboration with Deloitte, teams of students with an interest in ana
 
 ## Descriptive Analysis 
 
+Currently Working 
+
 ## Feature Engineering 
 
 ###  Expected Win Rates 
+
+KenPom Expected Win Rates are a statistical measure used in college basketball to predict the likelihood of a team winning a particular game. The term is named after Ken Pomeroy, a statistician and college basketball analyst who developed the model.
+
+KenPom's expected win rate is based on a variety of factors, including a team's overall efficiency, pace of play, and strength of schedule. The model calculates a team's expected win rate for each game by comparing its performance statistics to those of its opponent and using that information to estimate the likelihood of a win. The expected win rate is then expressed as a percentage, with a higher percentage indicating a higher likelihood of winning.
+
+These expected win rates can be useful for college basketball fans and analysts, as they provide a quantitative way to evaluate a team's performance and predict future results. However, it's important to remember that they are just one tool among many, and that a variety of other factors, such as injuries, coaching changes, and player performance, can also impact the outcome of a game.
 
 ### Distance between two schools 
 
