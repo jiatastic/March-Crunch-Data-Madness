@@ -1,13 +1,5 @@
 # March Crunch Data Madness - Working in Progress
 
-Packages used(Current) 
-
-1.Pandas
-2.Numpy
-3.Matplotlib
-4.Math
-5.Sklearn
-6.Warning
 
 ## Introduction 
 
