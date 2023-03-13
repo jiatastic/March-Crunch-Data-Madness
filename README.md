@@ -81,5 +81,5 @@ Coach Variables:
 
 ## Baseline Models 
 
-1. LightGBM - Logloss: 0.555960806126461
+1. LightGBM - Logloss: 0.52
 ## Model Ensemble
